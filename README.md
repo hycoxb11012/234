@@ -1,42 +1,1333 @@
-Content-Encoding: gzip
-Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
-Content-Type: text/html; charset=utf-8
-Date: Thu, 24 Nov 2022 09:39:15 GMT
-ETag: W/"48938ca57388dc94c8bf18e6dc0cb382"
-Referrer-Policy: no-referrer-when-downgrade
-Content-Encoding: gzip
-Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
-Content-Type: text/html; charset=utf-8
-Date: Thu, 24 Nov 2022 09:39:15 GMT
-ETag: W/"48938ca57388dc94c8bf18e6dc0cb382"
-Referrer-Policy: no-referrer-when-downgrade
-Content-Encoding: gzip
-Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
-Content-Type: text/html; charset=utf-8
-Date: Thu, 24 Nov 2022 09:39:15 GMT
-ETag: W/"48938ca57388dc94c8bf18e6dc0cb382"
-Referrer-Policy: no-referrer-when-downgrade
-Content-Encoding: gzip
-Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
-Content-Type: text/html; charset=utf-8
-Date: Thu, 24 Nov 2022 09:39:15 GMT
-ETag: W/"48938ca57388dc94c8bf18e6dc0cb382"
-Referrer-Policy: no-referrer-when-downgrade
-Content-Encoding: gzip
-Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
-Content-Type: text/html; charset=utf-8
-Date: Thu, 24 Nov 2022 09:39:15 GMT
-ETag: W/"48938ca57388dc94c8bf18e6dc0cb382"
-Content-Encoding: gzip
-Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
-Content-Type: text/html; charset=utf-8
-Date: Thu, 24 Nov 2022 09:39:15 GMT
-ETag: W/"48938ca57388dc94c8bf18e6dc0cb382"
-Referrer-Policy: no-referrer-when-downgrade
-Content-Encoding: gzip
-Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/; connect-src 'self' uploads.github.com objects-origin.githubusercontent.com www.githubstatus.com collector.github.com raw.githubusercontent.com api.github.com github-cloud.s3.amazonaws.com github-production-repository-file-5c1aeb.s3.amazonaws.com github-production-upload-manifest-file-7fdce7.s3.amazonaws.com github-production-user-asset-6210df.s3.amazonaws.com cdn.optimizely.com logx.optimizely.com/v1/events *.actions.githubusercontent.com wss://*.actions.githubusercontent.com online.visualstudio.com/api/v1/locations github-production-repository-image-32fea6.s3.amazonaws.com github-production-release-asset-2e65be.s3.amazonaws.com insights.github.com wss://alive.github.com; font-src github.githubassets.com; form-action 'self' github.com gist.github.com objects-origin.githubusercontent.com; frame-ancestors 'none'; frame-src viewscreen.githubusercontent.com notebooks.githubusercontent.com; img-src 'self' data: github.githubassets.com media.githubusercontent.com camo.githubusercontent.com identicons.github.com avatars.githubusercontent.com github-cloud.s3.amazonaws.com objects.githubusercontent.com objects-origin.githubusercontent.com secured-user-images.githubusercontent.com/ opengraph.githubassets.com github-production-user-asset-6210df.s3.amazonaws.com customer-stories-feed.github.com spotlights-feed.github.com *.githubusercontent.com; manifest-src 'self'; media-src github.com user-images.githubusercontent.com/ secured-user-images.githubusercontent.com/; script-src github.githubassets.com; style-src 'unsafe-inline' github.githubassets.com; worker-src github.com/assets-cdn/worker/ gist.github.com/assets-cdn/worker/
-Content-Type: text/html; charset=utf-8
-Date: Thu, 24 Nov 2022 09:39:15 GMT
-ETag: W/"48938ca57388dc94c8bf18e6dc0cb382"
-Referrer-Policy: no-referrer-when-downgrade
-Referrer-Policy: no-referrer-when-downgrade
+[123.txt](https://github.com/hycoxb11012/234/files/10181645/123.txt)
+[123.txt](https://github.com/hycoxb11012/234/files/10181646/123.txt)
+[234.txt](https://github.com/hycoxb11012/234/files/10181653/234.txt)
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+ess-Control-Allow-Origin: *
+Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: default-src 'none'
+Content-Type: text/plain
+Date: Thu, 08 Dec 2022 02:37:03 GMT
+Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+Server: GitHub.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Vary: Accept-Encoding, Accept, X-Requested-With
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+x-github-api-version-selected: 2022-11-28
+X-GitHub-Media-Type: github.v3; format=json
+X-GitHub-Request-Id: 8B53:1422:593ECC:5D81D4:63914DCF
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 60
+X-RateLimit-Reset: 1670470623
+X-RateLimit-Resource: core
+X-RateLimit-Used: 0
+X-XSS-Protection: 0
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+Cache-Control: no-cache
+Connection: keep-alive
+Content-Length: 435
+Content-Type: text/plain;charset=UTF-8
+Cookie: _octo=GH1.1.1589154658.1669254874; preferred_color_mode=light; tz=Asia%2FShanghai; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=yes; dotcom_user=hycoxb11012
+Host: api.github.com
+Origin: https://github.com
+Pragma: no-cache
+Referer: https://github.com/hycoxb11012/234/edit/main/README.md
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
